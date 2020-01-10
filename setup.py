@@ -36,7 +36,7 @@ if __name__ == '__main__':
                 'speechrecognition',
                 'pysoundfile',
                 'scikit-image==0.13.1',
-                'Pillow==5.0.0',
+                'Pillow==6.2.0',
         ],
         classifiers = [
         'Development Status :: 1 - Planning',
